@@ -20,7 +20,7 @@ Frequency [Hz]
 #### Ordinate:
 - Capacitor - azure [pF]
 - Bandwith - orange [KHz]
-- Capacitor rms Voltage - green [V]
+- Capacitor rms Voltage - green [10V]
 - Efficiency compared to ideal loop - blue (dB)
 
 ## pF vs MHz
