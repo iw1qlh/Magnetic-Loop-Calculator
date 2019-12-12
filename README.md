@@ -2,7 +2,7 @@
 
 ## Hz vs pF
 
-You can see the effect on capacitor (capacity and voltage), bandwith and efficiency changing loop characteristics and transmitting power.
+Use the sliders to see the effect on capacitor (capacity and voltage), bandwith and efficiency changing loop characteristics and transmitting power.
 
 https://www.desmos.com/calculator/vbuv8eh0zt
 
@@ -25,7 +25,7 @@ Frequency [Hz]
 
 ## pF vs MHz
 
-You can see the effect on frequency and bandwith changing loop characteristics.
+Use the sliders to see the effect on frequency and bandwith changing loop characteristics.
 
 https://www.desmos.com/calculator/jrsulmijxo
 
