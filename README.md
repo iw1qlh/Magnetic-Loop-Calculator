@@ -5,8 +5,8 @@
 https://www.desmos.com/calculator/vbuv8eh0zt
 
 ### Variables:
-- l = loop diameter [m]
-- d = 
+- l = loop circumference [m]
+- d = conductor diameter [mm]
 - W = power [W]
 
 ### Output:
@@ -26,8 +26,8 @@ Frequency [Hz]
 https://www.desmos.com/calculator/jrsulmijxo
 
 ### Variables:
-- l = loop diameter [m]
-- d = 
+- l = loop circumference [m]
+- d = conductor diameter [mm]
 
 ### Output:
 
