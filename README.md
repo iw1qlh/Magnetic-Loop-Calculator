@@ -16,10 +16,10 @@ https://www.desmos.com/calculator/vbuv8eh0zt
 Frequency [Hz]
 
 #### Ordinate:
-- Capacitor [pF]
-- Bandwith [KHz]
-- Capacitor rms Voltage [V]
-- Efficiency compared to ideal loop (dB)
+- Capacitor - azure [pF]
+- Bandwith - orange [KHz]
+- Capacitor rms Voltage - green [V]
+- Efficiency compared to ideal loop - blue (dB)
 
 ## pF vs MHz
 
