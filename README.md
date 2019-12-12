@@ -42,3 +42,7 @@ Capacitor [pF]
 #### Ordinate:
 - Frequency - brown [MHz]
 - Bandwith - azure [KHz]
+
+
+73 & DX
+
