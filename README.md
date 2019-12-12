@@ -4,7 +4,7 @@
 
 https://www.desmos.com/calculator/vbuv8eh0zt
 
-### Parameters:
+### Variables:
 - l = loop diameter [m]
 - d = 
 - W = power [W]
@@ -13,10 +13,28 @@ https://www.desmos.com/calculator/vbuv8eh0zt
 
 #### Abscissa
 
-Hz
+Frequency [Hz]
 
 #### Ordinate:
 - Capacitor [pF]
 - Bandwith [KHz]
 - Capacitor rms Voltage [V]
 - Efficiency compared to ideal loop (dB)
+
+## pF vs MHz
+
+https://www.desmos.com/calculator/vbuv8eh0zt
+
+### Variables:
+- l = loop diameter [m]
+- d = 
+
+### Output:
+
+#### Abscissa
+
+Capacitor [pF]
+
+#### Ordinate:
+- Frequency [MHz]
+- Bandwith [KHz]
