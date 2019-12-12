@@ -1,4 +1,4 @@
-# Online Magnetic-Loop-Calculator
+# Online Magnetic Loop Calculator
 
 ## Hz vs pF
 
