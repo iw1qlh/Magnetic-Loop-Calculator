@@ -23,7 +23,7 @@ Frequency [Hz]
 
 ## pF vs MHz
 
-https://www.desmos.com/calculator/vbuv8eh0zt
+https://www.desmos.com/calculator/jrsulmijxo
 
 ### Variables:
 - l = loop diameter [m]
